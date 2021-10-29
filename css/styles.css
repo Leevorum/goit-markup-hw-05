@@ -541,9 +541,6 @@ img {
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 50%;
 }
-.modal-close-svg {
-  position: absolute;
-}
 .is-hidden {
   visibility: hidden;
   pointer-events: none;
