@@ -248,6 +248,8 @@ img {
   width: 100%;
   height: 70px;
   background: rgba(47, 48, 58, 0.8);
+}
+.overlay-item {
   font-family: 'Roboto';
   font-weight: 700;
   font-size: 14px;
